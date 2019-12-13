@@ -3,7 +3,7 @@
   "private": true,
   "husky": {
     "hooks": {
-      "pre-commit": "lerna pre-commit"
+      "pre-commit": "lerna run pre-commit"
     }
   },
   "workspaces": {
